@@ -1,0 +1,32 @@
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\bin\Debug\net8.0\appsettings.json
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\bin\Debug\net8.0\3 лабораторная.exe
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\bin\Debug\net8.0\3 лабораторная.deps.json
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\bin\Debug\net8.0\3 лабораторная.runtimeconfig.json
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\bin\Debug\net8.0\3 лабораторная.dll
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\bin\Debug\net8.0\3 лабораторная.pdb
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\3 лабораторная.csproj.AssemblyReference.cache
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\3 лабораторная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\3 лабораторная.AssemblyInfoInputs.cache
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\3 лабораторная.AssemblyInfo.cs
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\3 лабораторная.csproj.CoreCompileInputs.cache
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\3 лабораторная.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\3 лабораторная.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\staticwebassets\msbuild.3 лабораторная.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\staticwebassets\msbuild.build.3 лабораторная.props
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.3 лабораторная.props
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.3 лабораторная.props
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\scopedcss\bundle\3 лабораторная.styles.css
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\3 ______.0054865B.Up2Date
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\3 лабораторная.dll
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\refint\3 лабораторная.dll
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\3 лабораторная.pdb
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\3 лабораторная.genruntimeconfig.cache
+C:\Users\Мариночка\source\repos\3 лабораторная\3 лабораторная\obj\Debug\net8.0\ref\3 лабораторная.dll
